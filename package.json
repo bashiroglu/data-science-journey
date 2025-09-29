@@ -1,0 +1,11 @@
+{
+  "name": "learn-python",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec python3 index.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
